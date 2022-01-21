@@ -33,10 +33,10 @@ h1, h2, h3, h4 {
     line-height: 1.2;
 }
 h1 {
-    font-size: 4.8rem;
+    font-size: 4rem;
 }
 h2 {
-    font-size: 4rem;
+    font-size: 3.5rem;
 }
 h3 {
     font-size: 3.2rem;
@@ -236,9 +236,9 @@ img {
 
 .formulario {
     background-color: var(--blanco);
-    margin: -5rem auto 0 auto;
+    margin: 0 auto;
     width: 95%;
-    padding: 5rem;
+    padding: 5rem 0;
 }
 .campo {
     display: flex;
